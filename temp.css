@@ -1,0 +1,28 @@
+h1 {
+    margin: 70px;
+    text-align: center;
+    font-size:60px;
+    font-family: "Copperplate", Papyrus, Fantasy;
+    }
+    body {
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size:cover;
+    }
+    main {
+    padding:50px;
+    margin:10px;
+    width:400px;
+    box-shadow: 20px 20px 50px 1px #0c6cf3 inset;
+    color: cadetblue;
+    }
+    section {
+    font-size:25px;
+    }
+    input{
+    width:200px;
+    height:30px;
+    }
+
+    
+    
